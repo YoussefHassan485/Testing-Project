@@ -1,0 +1,26 @@
+** Mocha **
+Describeit
+
+to run one test case use it.only
+
+
+test group (Suit)
+test cases
+
+test group -->login
+
+1- enter valid email and valid password
+2- enter invalid email and invalid password
+3- enter invalid email and valid password
+4- enter valid email and valid password
+
+test group = Describe
+test case = it
+
+** Cypress syntax **
+
+cy.visit("URL")
+
+** assertion: compare expected with the actual
+chai.js-should
+-expect

@@ -1,0 +1,17 @@
+** install NVM
+nvm install latest --> last version
+nvm install 16.14.0
+
+to use any NVM version
+
+nvm use 16.14.0
+
+to make sure what is current node version running in my system
+
+nvm current
+
+
+----------------------------------------------------------------------------------
+
+npm i --> install package.json and lock
+
